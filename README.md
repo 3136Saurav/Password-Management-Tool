@@ -1,3 +1,2 @@
-# Password Tool Management
+# Library Management Project
 
-Password Management Tool to manage passwords of various accounts of the user.
